@@ -7,4 +7,4 @@ sudo ./firewall_manager.sh
 The magic will start soon, enjoy.
 If you do not want to see my name in the title or in the end, search in the file for Raul Conte and remove from you world :) LOL
 
-ENOJOY!!!
+ENJOY!!!
