@@ -4,7 +4,13 @@ Download the file "firewall_manager.sh" in the directory you want.
 give excecution permissions using: sudo chmod +x firewall_manager.sh
 sudo ./firewall_manager.sh
 
+What I do for example, I go some website with no cloudflare services associated, I try to validate if the website is really be blocking or not or the specific ports.
+
+This is why I created some extra options to know the devices names we have, internal and external IP assigned to you and a website validator to convert DNS websites on IP tables to easy copy and paste results in our UFW.
+
+Incomming means block or allow connections from outsite to your system.
+Outgoing means block or allow connections for external connections such as websites.
+
 The magic will start soon, enjoy.
-If you do not want to see my name in the title or in the end, search in the file for Raul Conte and remove from you world :) LOL
 
 ENJOY!!!
