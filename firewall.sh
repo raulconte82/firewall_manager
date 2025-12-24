@@ -218,7 +218,7 @@ while true; do
         18) reload_ufw ;;
         19)
             clear
-            echo "Remember, Raul Conte the best and happy to help you"
+           
             exit 0
             ;;
         *) echo "Invalid option"; sleep 1 ;;
